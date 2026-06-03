@@ -1,0 +1,6 @@
+{
+  "name": "Renovados",
+  "description": "Plataforma de Transformación de Creencias Limitantes Basada en la Renovación Bíblica de la Mente",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
